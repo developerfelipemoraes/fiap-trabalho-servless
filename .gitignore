@@ -1,0 +1,25 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/bin
+/Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/Debug
+
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/project.nuget.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.AssemblyInfoInputs.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.assets.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.csproj.CopyComplete
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.csproj.CoreCompileInputs.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.csproj.FileListAbsolute.txt
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.csprojAssemblyReference.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.dll
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.genruntimeconfig.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.MvcApplicationPartsAssemblyInfo.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.pdb
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.RazorTargetAssemblyInfo.cache
+Fiap.Serveless.Trip/src/Fiap.Serveless.Trip/obj/Debug/netcoreapp3.1/staticwebassets/Fiap.Serveless.Trip.StaticWebAssets.Manifest.cache
+Fiap.Serveless.Trip/test/Fiap.Serveless.Trip.Tests/appsettings.json
+Fiap.Serveless.Trip/test/Fiap.Serveless.Trip.Tests/obj/project.nuget.cache
+Fiap.Serveless.Trip/test/Fiap.Serveless.Trip.Tests/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.Tests.AssemblyInfoInputs.cache
+Fiap.Serveless.Trip/test/Fiap.Serveless.Trip.Tests/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.Tests.assets.cache
+Fiap.Serveless.Trip/test/Fiap.Serveless.Trip.Tests/obj/Debug/netcoreapp3.1/Fiap.Serveless.Trip.Tests.csprojAssemblyReference.cache
