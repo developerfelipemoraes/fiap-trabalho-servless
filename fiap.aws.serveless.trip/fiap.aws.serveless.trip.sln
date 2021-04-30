@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "fiap.aws.serveless.trip", "fiap.aws.serveless.trip\src\fiap.aws.serveless.trip\fiap.aws.serveless.trip.csproj", "{5D8FAB53-2BC2-4459-B07B-E91175994CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fiap.aws.serveless.trip.services", "fiap.aws.serveless.trip.services\fiap.aws.serveless.trip.services.csproj", "{164A3B20-CDBF-4F35-83A0-DCC452FB1970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fiap.aws.serveless.trip.repository", "fiap.aws.serveless.trip.repository\fiap.aws.serveless.trip.repository.csproj", "{43A01B60-D332-459D-A8C4-CF38DC88DBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fiap.aws.serveless.trip.kernell", "fiap.aws.serveless.trip.kernell\fiap.aws.serveless.trip.kernell.csproj", "{6019BF7B-3602-455F-B269-BAAB6DC59FCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D8FAB53-2BC2-4459-B07B-E91175994CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8FAB53-2BC2-4459-B07B-E91175994CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8FAB53-2BC2-4459-B07B-E91175994CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8FAB53-2BC2-4459-B07B-E91175994CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164A3B20-CDBF-4F35-83A0-DCC452FB1970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164A3B20-CDBF-4F35-83A0-DCC452FB1970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164A3B20-CDBF-4F35-83A0-DCC452FB1970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164A3B20-CDBF-4F35-83A0-DCC452FB1970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A01B60-D332-459D-A8C4-CF38DC88DBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A01B60-D332-459D-A8C4-CF38DC88DBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A01B60-D332-459D-A8C4-CF38DC88DBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A01B60-D332-459D-A8C4-CF38DC88DBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6019BF7B-3602-455F-B269-BAAB6DC59FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6019BF7B-3602-455F-B269-BAAB6DC59FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6019BF7B-3602-455F-B269-BAAB6DC59FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6019BF7B-3602-455F-B269-BAAB6DC59FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703CDFA3-2B87-4490-967B-C93952C1457C}
+	EndGlobalSection
+EndGlobal

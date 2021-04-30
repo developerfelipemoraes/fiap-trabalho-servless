@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/fiap.aws.serveless.trip/.vs/fiap.aws.serveless.trip
+/fiap.aws.serveless.trip/fiap.aws.serveless.trip/src/fiap.aws.serveless.trip/bin/Debug/netcoreapp3.1
+/fiap.aws.serveless.trip/fiap.aws.serveless.trip/src/fiap.aws.serveless.trip/obj
+/fiap.aws.serveless.trip/fiap.aws.serveless.trip.kernell/obj
+/fiap.aws.serveless.trip/fiap.aws.serveless.trip.repository/obj
+/fiap.aws.serveless.trip/fiap.aws.serveless.trip.services/obj
